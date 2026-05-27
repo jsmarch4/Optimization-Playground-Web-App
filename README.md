@@ -50,5 +50,6 @@ Built using:
 - NumPy
 - Matplotlib
 
-<img width="1512" height="825" alt="image" src="https://github.com/user-attachments/assets/be960701-3b0e-4534-a4d2-3534579e706b" />
+<img width="1512" height="825" alt="image" src="https://github.com/user-attachments/assets/ade77878-40d7-4f39-be84-c02a9d684006" />
+
 
